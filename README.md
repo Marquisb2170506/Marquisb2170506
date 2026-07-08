@@ -53,4 +53,4 @@ Provisioned a free ServiceNow Personal Developer Instance and built out a simula
 - **Email:** marquisb.2315@gmail.com
 - **Phone:** (618) 900-8960
 - **Location:** St. Louis, MO (Open to Remote)
-- **LinkedIn:** [linkedin.com/in/marquis-borney](https://linkedin.com/in/marquis-borney)
+- **LinkedIn:** [linkedin.com/in/marquis-borney-717326102)
